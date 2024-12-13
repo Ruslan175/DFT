@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+rm main
+g++ -std=c++11 -Wall main.c -o main
+./main
